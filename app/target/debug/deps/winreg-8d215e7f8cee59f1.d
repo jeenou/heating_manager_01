@@ -1,0 +1,11 @@
+C:\Users\enessi\Documents\Essille_20231016_01\addons\heating_manager_01\app\target\debug\deps\winreg-8d215e7f8cee59f1.rmeta: C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\lib.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\common.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\enums.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key_metadata.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_value.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\types.rs
+
+C:\Users\enessi\Documents\Essille_20231016_01\addons\heating_manager_01\app\target\debug\deps\winreg-8d215e7f8cee59f1.d: C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\lib.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\common.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\enums.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key_metadata.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_value.rs C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\types.rs
+
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\lib.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\common.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\enums.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_key_metadata.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\reg_value.rs:
+C:\Users\enessi\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.50.0\src\types.rs:

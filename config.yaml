@@ -1,0 +1,28 @@
+name: "Heating Manager 01"
+description: "Facilitates a user interface for heating management"
+version: "0.0.5"
+slug: "heating_manager_01"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: before
+ports:
+  8000/tcp: 8000
+options:
+  floor_area: 53
+  stories: 1
+  insulation_u_value: 0.1
+  listen_ip: "0.0.0.0"
+  port: "8000"
+  hass_token: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI3ZWJmZWIxZjIzOTk0NzlkYWMzMGJkMDFkNGM5ZWQ1ZSIsImlhdCI6MTY5NTAyNzI1MywiZXhwIjoyMDEwMzg3MjUzfQ.A9lblJTCbCqEvtKio2mVkb8RH5SLim8dpYJ8014OrvY"
+schema:
+  floor_area: int
+  stories: int
+  insulation_u_value: float
+  listen_ip: str
+  port: str
+  hass_token: str
